@@ -1,2 +1,2 @@
-# school
+# School
 Learning is Everything!
